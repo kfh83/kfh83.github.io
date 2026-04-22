@@ -1,0 +1,19 @@
+.regulartext {
+	color: #666666;
+	font-family: "Verdana";
+	font-size: 9pt;
+}
+
+.smalltext {
+	color: #666666;
+	font-family: "Verdana";
+	font-size: 8pt;
+}
+
+a {
+	  text-decoration: none;
+	  color: #CCCCCC;
+	  font-family: "Verdana";
+	  font-size: 9pt;
+	  font-weight: bold;
+}
